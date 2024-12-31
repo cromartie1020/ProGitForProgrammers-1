@@ -8,4 +8,10 @@ namespace ProGitForProgrammers
     {
         return left + ProGitForProgrammers right
     } 
+    public class Book
+    {
+        public string Title (git; set;)
+        public DateTime PublicationDate{get; set; }
+    }
+
 }
